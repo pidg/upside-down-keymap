@@ -3,7 +3,7 @@ dɐɯʎǝʞ uʍop-ǝpısd∩
 
 An upside-down keymap for OS X. Practically useless, since you also have to *think* backwards when typing. (It may come in handy around the beginning of April, though.)
 
-:suoıʇɔnɹʇsuı uoıʇɐllɐʇsuI
+:(sʞɔıɹǝʌɐW X SO) suoıʇɔnɹʇsuı uoıʇɐllɐʇsuI
 
 1. Open ~/Library/Keyboard Layouts/
 2. Save the keymap file in there
